@@ -1,9 +1,9 @@
 <div>
   <h1>Web developer</h1>
-  <img src="https://logospng.org/download/html-5/logo-html-5-512.png" width="50px" height="50px">
-  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="50px" height="50px">
-  <img src="https://trickdroid.org/wp-content/uploads/2019/12/Sobre-JavaScript-Definicao-Historia-Usos-e-Forcas.png" width="50px" height="50px">
-  <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="50px" height="50px">
+  <img src="https://logospng.org/download/html-5/logo-html-5-512.png" width="25px" height="25px">
+  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="25px" height="25px">
+  <img src="https://trickdroid.org/wp-content/uploads/2019/12/Sobre-JavaScript-Definicao-Historia-Usos-e-Forcas.png" width="25px" height="25px">
+  <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="25px" height="25px">
 </div>
 <div>
   <h1>Midias</h1>
