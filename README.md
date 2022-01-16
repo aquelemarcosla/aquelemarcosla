@@ -1,9 +1,6 @@
 <div>
-  <h1>Web developer</h1>
-  <img src="https://logospng.org/download/html-5/logo-html-5-512.png" width="35px" height="35px">
-  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="35px" height="35px">
-  <img src="https://trickdroid.org/wp-content/uploads/2019/12/Sobre-JavaScript-Definicao-Historia-Usos-e-Forcas.png" width="35px" height="35px">
-  <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="35px" height="35px">
+  <h1>Web Application Developer</h1>
+  <img src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" width="35px" height="35px">
 </div>
 <div>
   <h1>Midias</h1>
