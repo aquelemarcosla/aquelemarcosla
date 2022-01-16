@@ -1,6 +1,6 @@
 <div>
   <h1>Web Application Developer</h1>
-  <img src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" width="35px" height="35px">
+  <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png" width="40px" height="35px">
 </div>
 <div>
   <h1>Midias</h1>
