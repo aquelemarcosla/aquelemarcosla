@@ -1,6 +1,8 @@
 <div>
   <h1>Web Application Developer</h1>
-  <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png" width="40px" height="35px">
+  <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png" width="90px" height="55px">
+  <img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" width="90px" height="55px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="90px" height="55px">
 </div>
 <div>
   <h1>Midias</h1>
