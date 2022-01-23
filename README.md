@@ -1,8 +1,8 @@
 <div>
-  <h1>Web Application Developer</h1>
-  <img src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png" width="90px" height="55px">
-  <img src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" width="90px" height="55px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="90px" height="55px">
+  <h1>Dedicated developer</h1>
+  <img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png" width="50px" height="50px">
+  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="47px" height="47px">
+  <img src="https://trickdroid.org/wp-content/uploads/2019/12/Sobre-JavaScript-Definicao-Historia-Usos-e-Forcas.png" width="46px" height="46px" margin-left="5px">
 </div>
 <div>
   <h1>Midias</h1>
