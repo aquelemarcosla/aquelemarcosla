@@ -1,8 +1,9 @@
 <div>
   <h1>Dedicated developer</h1>
-  <img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png" width="50px" height="50px">
-  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="47px" height="47px">
-  <img src="https://trickdroid.org/wp-content/uploads/2019/12/Sobre-JavaScript-Definicao-Historia-Usos-e-Forcas.png" width="46px" height="46px" margin-left="5px">
+  <img src="https://logospng.org/download/java/logo-java-512.png" width="70px" height="70px">
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70px" height="70px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="85px" height="70px">
+  <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="70px" height="70px">
 </div>
 <div>
   <h1>Midias</h1>
