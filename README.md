@@ -1,9 +1,9 @@
-### I'm Marcos. 
-<div align="center">
+ <div align="center">
+  <h1 font-weight="bold">I'm Marcos</h1>
   <a href="https://github.com/aquelemarcosla">
   <img width="150px" src="https://pa1.narvii.com/6617/143a90ed417324ed052b981c2b7ee4878c8e1506_hq.gif" alt="Panda Gif">
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
