@@ -1,7 +1,7 @@
 ### I'm Marcos. 
-<div text-align="center">
+<div align="center">
   <a href="https://github.com/aquelemarcosla">
-  <img width="250px" src="https://c.tenor.com/0fUWkfKwXcUAAAAM/sim.gif" alt="Gif Berserk">
+  <img width="275px" src="https://c.tenor.com/0fUWkfKwXcUAAAAM/sim.gif" alt="Gif Berserk">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
