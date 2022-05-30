@@ -1,7 +1,7 @@
-### Olá Olá, eu sou o Marcos! 
-<div>
+### I'm Marcos. 
+<div text-align="center">
   <a href="https://github.com/aquelemarcosla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemarcosla&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="150px" src="https://c.tenor.com/0fUWkfKwXcUAAAAM/sim.gif" alt="Gif Berserk">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
