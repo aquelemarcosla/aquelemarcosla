@@ -1,6 +1,6 @@
  <div align="center">
   <h1>I'm Marcos and...</h1>
-  <p><b>I am a web developer and I work with:</b></p> 
+  <p><b>I am a web developer, i work with:</b></p> 
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Marcos-Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
