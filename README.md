@@ -21,6 +21,6 @@
 </div>
 
 <div>
- <h1>Read books</h1>
+ <h1>Books i read</h1>
  <a href="https://github.com/braziljs/eloquente-javascript" target="_blank"><img width="150" src="https://raw.githubusercontent.com/braziljs/eloquente-javascript/master/img/eloq-js.png"></a>
 </div>
